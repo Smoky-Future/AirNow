@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AirNow/static/css/main.86ec819c.chunk.css",
-    "main.js": "/AirNow/static/js/main.9ca6ad72.chunk.js",
-    "main.js.map": "/AirNow/static/js/main.9ca6ad72.chunk.js.map",
+    "main.css": "/AirNow/static/css/main.8d9a2a17.chunk.css",
+    "main.js": "/AirNow/static/js/main.954bf225.chunk.js",
+    "main.js.map": "/AirNow/static/js/main.954bf225.chunk.js.map",
     "runtime-main.js": "/AirNow/static/js/runtime-main.e90b3f13.js",
     "runtime-main.js.map": "/AirNow/static/js/runtime-main.e90b3f13.js.map",
     "static/js/2.9dd573d7.chunk.js": "/AirNow/static/js/2.9dd573d7.chunk.js",
     "static/js/2.9dd573d7.chunk.js.map": "/AirNow/static/js/2.9dd573d7.chunk.js.map",
     "index.html": "/AirNow/index.html",
-    "precache-manifest.bc4a5ba3e2ec920a9ca19180677f34a3.js": "/AirNow/precache-manifest.bc4a5ba3e2ec920a9ca19180677f34a3.js",
+    "precache-manifest.b9236d45396a239edf64347456ba3c78.js": "/AirNow/precache-manifest.b9236d45396a239edf64347456ba3c78.js",
     "service-worker.js": "/AirNow/service-worker.js",
-    "static/css/main.86ec819c.chunk.css.map": "/AirNow/static/css/main.86ec819c.chunk.css.map",
+    "static/css/main.8d9a2a17.chunk.css.map": "/AirNow/static/css/main.8d9a2a17.chunk.css.map",
     "static/js/2.9dd573d7.chunk.js.LICENSE.txt": "/AirNow/static/js/2.9dd573d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e90b3f13.js",
     "static/js/2.9dd573d7.chunk.js",
-    "static/css/main.86ec819c.chunk.css",
-    "static/js/main.9ca6ad72.chunk.js"
+    "static/css/main.8d9a2a17.chunk.css",
+    "static/js/main.954bf225.chunk.js"
   ]
 }

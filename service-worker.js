@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AirNow/precache-manifest.bc4a5ba3e2ec920a9ca19180677f34a3.js"
+  "/AirNow/precache-manifest.b9236d45396a239edf64347456ba3c78.js"
 );
 
 self.addEventListener('message', (event) => {

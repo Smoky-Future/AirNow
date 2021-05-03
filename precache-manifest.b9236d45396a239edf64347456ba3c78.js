@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11e8b3a6a62354419793d3d9e42a48e4",
+    "revision": "d181238f34bce9fd4df746716079ed01",
     "url": "/AirNow/index.html"
   },
   {
-    "revision": "f2f769a758f0cb97561c",
-    "url": "/AirNow/static/css/main.86ec819c.chunk.css"
+    "revision": "20b07bab85840067862e",
+    "url": "/AirNow/static/css/main.8d9a2a17.chunk.css"
   },
   {
     "revision": "21dc03416b71f9f1656b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AirNow/static/js/2.9dd573d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2f769a758f0cb97561c",
-    "url": "/AirNow/static/js/main.9ca6ad72.chunk.js"
+    "revision": "20b07bab85840067862e",
+    "url": "/AirNow/static/js/main.954bf225.chunk.js"
   },
   {
     "revision": "565f233255895a620c08",
